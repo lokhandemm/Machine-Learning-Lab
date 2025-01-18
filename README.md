@@ -1,6 +1,6 @@
 # Machine Learning Lab
 
-This repository contains implementations of machine learning algorithms using Python. The algorithms are implemented as part of the Machine Learning Lab course for the B.Tech CSE program with a Data Science specialization.
+This repository contains implementations of machine learning algorithms using Python. The algorithms are implemented as part of the Machine Learning Lab.
 
 ## Course Overview
 
@@ -25,13 +25,6 @@ The experiments are based on the syllabus of the **Machine Learning** course and
 - Python
 - Libraries: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
 
-## Course Outcomes
-
-By the end of this course, you will be able to:
-1. Understand the implementation procedures for machine learning algorithms.
-2. Design Python programs for various learning algorithms.
-3. Apply appropriate machine learning algorithms to different datasets.
-4. Apply machine learning techniques to solve real-world problems.
 
 ## Usage
 
