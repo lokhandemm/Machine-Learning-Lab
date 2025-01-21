@@ -2,7 +2,7 @@
 
 This repository contains Python implementations of various machine learning algorithms. The project includes practical implementations of key machine learning techniques and algorithms used to solve real-world problems.
 
-## Algorithms Implemented
+## Algorithms Implemented:
 
 - **Data Preprocessing**: Techniques for preparing datasets before training models, including handling missing values, encoding categorical data, and scaling features.
 - **Simple, Multiple, and Logistic Regression**: Implementations of linear regression for predicting continuous values, and logistic regression for binary classification tasks.
@@ -12,7 +12,7 @@ This repository contains Python implementations of various machine learning algo
 - **Naive Bayes**: A probabilistic classifier based on applying Bayes' theorem with strong (naive) independence assumptions between features.
 - **Support Vector Machine (SVM)**: A supervised learning algorithm used for classification and regression, focusing on finding the hyperplane that best separates classes in high-dimensional space.
 
-## Technologies Used
+## Technologies Used:
 
 - **Programming Language**: Python
 - **Libraries**:
