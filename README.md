@@ -16,7 +16,7 @@ This repository contains Python implementations of various machine learning algo
 
 - **Programming Language**: Python
 - **Libraries**:
-  - **NumPy**: For numerical operations and array handling.
+  - **NumPy**: For numerical operations and array handling.(numerical python)
   - **Pandas**: For data manipulation and analysis.
   - **scikit-learn**: For implementing machine learning algorithms.
   - **Matplotlib & Seaborn**: For data visualization and plotting.
