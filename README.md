@@ -1,5 +1,5 @@
 # Machine Learning Lab
-        
+         
 This repository contains Python implementations of various machine learning algorithms. The project includes practical implementations of key machine learning techniques and algorithms used to solve real-world problems.
 
 ## Algorithms Implemented:
